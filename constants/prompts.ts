@@ -8,7 +8,7 @@ Verilecek cevapta asla ekstra mesaj veya yorum olmayacak. Sadece aşağıdaki fo
 
 {
     "name": "...",
-    "jobTitle": "...",
+    "jobTitle": "...", // Sadece bir adet iş başlığı yaz. Yani Frontend Developer veya Eğitmen. Asla birden fazla yazma.
     "about": "...",
     "educationStatus": "...", // e.g., High School,  Bachelor's Degree, Master's Degree, PhD, etc.
     "educations": [
